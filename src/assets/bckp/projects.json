@@ -1,0 +1,33 @@
+{
+	"rows": 20,
+	"os": "0",
+	"page": "1",
+	"total": "3",
+	"projects": {
+		"P153744": {
+			"id": "P153744",
+			"project_name": "Philippines Social Welfare Development and Reform Project II",
+			"boardapprovaldate": "2016-02-19T00:00:00Z",
+			"teamleaderupi": "293950",
+			"url": "http://projects.worldbank.org/P153744?lang=en"
+		},
+		"P132751": {
+			"id": "P132751",
+			"project_name": "Cambodia Cash Transfer Pilot Focused on Maternal and Child Health and Nutrition Project",
+			"boardapprovaldate": "2014-09-26T00:00:00Z",
+			"teamleaderupi": "293950",
+			"url": "http://projects.worldbank.org/P132751?lang=en"
+		},
+		"P123960": {
+			"id": "P123960",
+			"project_name": "Social Assistance System Strengthening Project",
+			"boardapprovaldate": "2014-01-22T00:00:00Z",
+			"teamleaderupi": "293950",
+			"project_abstract": {
+				"cdata": "The objective of the Social Assistance System Strengthening Project for Vietnam is to support the government in strengthening the social assistance system by developing innovations in management and service delivery nationwide, and by piloting these innovations in the four project provinces. The project consists of the following components: 1) strengthening the social assistance and poverty reduction system; 2) launching a consolidated social assistance program; and 3) project management. The first component supports the development and testing of improved mechanisms for social assistance delivery and management. The second component tests the mechanisms developed under the first component, through the launching of social assistance consolidation, and the final component provides project management and capacity building support. This paper pertains to the provision of a credit for the project."
+			},
+			"url": "http://projects.worldbank.org/P123960?lang=en"
+		}
+	},
+	"facets": {}
+}

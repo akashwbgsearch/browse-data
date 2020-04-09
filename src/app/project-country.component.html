@@ -1,0 +1,40 @@
+<div class="container">
+   <div class="row">
+        <div class="col-md-12 full-width">
+            <!-- Country Desktop List -->                
+            <div class="rowList_container hidden-xs">
+                <ul class="rowList">
+                    <li *ngFor="let regionkey of regions">
+                        <h3><a href="{{redirectPage}}regionname_exact={{regionkey.englishRgnName}}{{sourceType}}">{{regionkey.regionName}}</a></h3>
+                    <ul class="subrowList">
+                            <ng-container *ngFor="let countrykey of countries">
+                                <li class="col-sm-6 col-md-6 col-lg-3" *ngIf="regionkey.regionCode == countrykey.regionCode">
+                                    <a href="{{redirectPage}}countrycode_exact={{countrykey.countryCode}}{{sourceType}}">{{countrykey.countryShortName}}</a>
+                                </li>
+                            </ng-container>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <!-- Country Desktop List Ends -->
+
+            <!-- Sector Mobile List -->
+            <div class="rowList_container hidden-lg hidden-md hidden-sm">
+                <div class="dropdown-v1-seciton" *ngFor="let regionkey of regions">
+                    <h3><a href="{{redirectPage}}regionname_exact={{regionkey.regionName}}{{sourceType}}">{{regionkey.regionName}}</a></h3>
+                    <div class="btn-group dropdown-v1">
+                        <button class="dropdown-select-item-v1 dropdown-toggle" title="Country Group" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span class="filter-option">{{conSel}}...</span><span class="adv-arrow"><i aria-hidden="true" class="fa fa-angle-down"></i></span></button>
+                        <ul class="dropdown-menu select-item">
+                            <ng-container *ngFor="let countrykey of countries">
+                                <li *ngIf="regionkey.regionCode == countrykey.regionCode">
+                                    <a href="{{redirectPage}}countrycode_exact={{countrykey.countryCode}}{{sourceType}}">{{countrykey.countryShortName}}</a>
+                                </li>
+                            </ng-container>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Sector Mobile List Ends-->
+        </div>
+    </div>
+</div>

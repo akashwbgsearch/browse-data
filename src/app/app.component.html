@@ -1,0 +1,11 @@
+<div class="ajax-div" *ngIf="loading">    
+    <img src="{{imagePath}}" class="ajax-loader" alt="Loading"/>
+</div>
+
+<project-country *ngIf="browseData == 'project-country' || browseData == 'procurement-country'" [apiResponse]="apiResponse" [redirectPage]="redirectPage" [sourceType]="sourceType" [locale]="locale">
+</project-country>
+<project-sector *ngIf="browseData == 'project-sector' || browseData == 'procurement-sector'"  [apiResponse]="apiResponse" [redirectPage]="redirectPage" [sourceType]="sourceType" [locale]="locale">
+</project-sector>
+<project-theme *ngIf="browseData == 'project-theme'"  [apiResponse]="apiResponse" [redirectPage]="redirectPage">
+</project-theme>
+ 

@@ -1,0 +1,1669 @@
+{
+  "Results": {
+    "Region": [
+      {
+        "-RegionCode": "0",
+        "-RegionName": "Other",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517214",
+        "-EnglishRgnName": "Other",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "1M",
+            "CountryShortName": "Multi-Regional",
+            "EnglishCtyName": "Multi-Regional"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "1W",
+            "CountryISOCode": "1W",
+            "CountryShortName": "World",
+            "EnglishCtyName": "World"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "4A",
+            "CountryISOCode": "4A",
+            "CountryShortName": "Asia",
+            "EnglishCtyName": "Asia"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "1",
+        "-RegionName": "Africa",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517192",
+        "-EnglishRgnName": "Africa",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "3A",
+            "CountryISOCode": "3A",
+            "CountryShortName": "Africa",
+            "EnglishCtyName": "Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "3E",
+            "CountryISOCode": "3E",
+            "CountryShortName": "Eastern Africa",
+            "EnglishCtyName": "Eastern Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "3S",
+            "CountryISOCode": "3S",
+            "CountryShortName": "Southern Africa",
+            "EnglishCtyName": "Southern Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "3T",
+            "CountryISOCode": "3T",
+            "CountryShortName": "Central Africa",
+            "EnglishCtyName": "Central Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "3W",
+            "CountryISOCode": "3W",
+            "CountryShortName": "Western Africa",
+            "EnglishCtyName": "Western Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AO",
+            "CountryISOCode": "AO",
+            "CountryShortName": "Angola",
+            "MetaDataKey": "82667",
+            "EnglishCtyName": "Angola"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BF",
+            "CountryISOCode": "BF",
+            "CountryShortName": "Burkina Faso",
+            "MetaDataKey": "82677",
+            "EnglishCtyName": "Burkina Faso"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BI",
+            "CountryISOCode": "BI",
+            "CountryShortName": "Burundi",
+            "MetaDataKey": "82644",
+            "EnglishCtyName": "Burundi"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BJ",
+            "CountryISOCode": "BJ",
+            "CountryShortName": "Benin",
+            "MetaDataKey": "82645",
+            "EnglishCtyName": "Benin"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BW",
+            "CountryISOCode": "BW",
+            "CountryShortName": "Botswana",
+            "MetaDataKey": "82653",
+            "EnglishCtyName": "Botswana"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CF",
+            "CountryISOCode": "CF",
+            "CountryShortName": "Central African Republic",
+            "MetaDataKey": "82657",
+            "EnglishCtyName": "Central African Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CG",
+            "CountryISOCode": "CG",
+            "CountryShortName": "Congo, Republic of",
+            "MetaDataKey": "82658",
+            "EnglishCtyName": "Congo, Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CI",
+            "CountryISOCode": "CI",
+            "CountryShortName": "Cote d'Ivoire",
+            "MetaDataKey": "82625",
+            "EnglishCtyName": "Cote d'Ivoire"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CM",
+            "CountryISOCode": "CM",
+            "CountryShortName": "Cameroon",
+            "MetaDataKey": "82627",
+            "EnglishCtyName": "Cameroon"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CV",
+            "CountryISOCode": "CV",
+            "CountryShortName": "Cape Verde",
+            "MetaDataKey": "82633",
+            "EnglishCtyName": "Cape Verde"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ER",
+            "CountryISOCode": "ER",
+            "CountryShortName": "Eritrea",
+            "MetaDataKey": "82714",
+            "EnglishCtyName": "Eritrea"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ET",
+            "CountryISOCode": "ET",
+            "CountryShortName": "Ethiopia",
+            "MetaDataKey": "82611",
+            "EnglishCtyName": "Ethiopia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GA",
+            "CountryISOCode": "GA",
+            "CountryShortName": "Gabon",
+            "MetaDataKey": "82616",
+            "EnglishCtyName": "Gabon"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GH",
+            "CountryISOCode": "GH",
+            "CountryShortName": "Ghana",
+            "MetaDataKey": "82621",
+            "EnglishCtyName": "Ghana"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GM",
+            "CountryISOCode": "GM",
+            "CountryShortName": "Gambia, The",
+            "MetaDataKey": "82623",
+            "EnglishCtyName": "Gambia, The"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GN",
+            "CountryISOCode": "GN",
+            "CountryShortName": "Guinea",
+            "MetaDataKey": "82624",
+            "EnglishCtyName": "Guinea"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GQ",
+            "CountryISOCode": "GQ",
+            "CountryShortName": "Equatorial Guinea",
+            "MetaDataKey": "82590",
+            "EnglishCtyName": "Equatorial Guinea"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GW",
+            "CountryISOCode": "GW",
+            "CountryShortName": "Guinea-Bissau",
+            "MetaDataKey": "82593",
+            "EnglishCtyName": "Guinea-Bissau"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KE",
+            "CountryISOCode": "KE",
+            "CountryShortName": "Kenya",
+            "MetaDataKey": "82558",
+            "EnglishCtyName": "Kenya"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KM",
+            "CountryISOCode": "KM",
+            "CountryShortName": "Comoros",
+            "MetaDataKey": "82563",
+            "EnglishCtyName": "Comoros"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LR",
+            "CountryISOCode": "LR",
+            "CountryShortName": "Liberia",
+            "MetaDataKey": "82539",
+            "EnglishCtyName": "Liberia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LS",
+            "CountryISOCode": "LS",
+            "CountryShortName": "Lesotho",
+            "MetaDataKey": "82540",
+            "EnglishCtyName": "Lesotho"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MG",
+            "CountryISOCode": "MG",
+            "CountryShortName": "Madagascar",
+            "MetaDataKey": "82548",
+            "EnglishCtyName": "Madagascar"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ML",
+            "CountryISOCode": "ML",
+            "CountryShortName": "Mali",
+            "MetaDataKey": "82550",
+            "EnglishCtyName": "Mali"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MR",
+            "CountryISOCode": "MR",
+            "CountryShortName": "Mauritania",
+            "MetaDataKey": "82519",
+            "EnglishCtyName": "Mauritania"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MU",
+            "CountryISOCode": "MU",
+            "CountryShortName": "Mauritius",
+            "MetaDataKey": "82522",
+            "EnglishCtyName": "Mauritius"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MW",
+            "CountryISOCode": "MW",
+            "CountryShortName": "Malawi",
+            "MetaDataKey": "82524",
+            "EnglishCtyName": "Malawi"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MZ",
+            "CountryISOCode": "MZ",
+            "CountryShortName": "Mozambique",
+            "MetaDataKey": "82527",
+            "EnglishCtyName": "Mozambique"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NA",
+            "CountryISOCode": "NA",
+            "CountryShortName": "Namibia",
+            "MetaDataKey": "82528",
+            "EnglishCtyName": "Namibia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NE",
+            "CountryISOCode": "NE",
+            "CountryShortName": "Niger",
+            "MetaDataKey": "82530",
+            "EnglishCtyName": "Niger"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NG",
+            "CountryISOCode": "NG",
+            "CountryShortName": "Nigeria",
+            "MetaDataKey": "82531",
+            "EnglishCtyName": "Nigeria"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "RW",
+            "CountryISOCode": "RW",
+            "CountryShortName": "Rwanda",
+            "MetaDataKey": "82515",
+            "EnglishCtyName": "Rwanda"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SC",
+            "CountryISOCode": "SC",
+            "CountryShortName": "Seychelles",
+            "MetaDataKey": "82679",
+            "EnglishCtyName": "Seychelles"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SD",
+            "CountryISOCode": "SD",
+            "CountryShortName": "Sudan",
+            "MetaDataKey": "82680",
+            "EnglishCtyName": "Sudan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SL",
+            "CountryISOCode": "SL",
+            "CountryShortName": "Sierra Leone",
+            "MetaDataKey": "82684",
+            "EnglishCtyName": "Sierra Leone"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SN",
+            "CountryISOCode": "SN",
+            "CountryShortName": "Senegal",
+            "MetaDataKey": "82685",
+            "EnglishCtyName": "Senegal"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SO",
+            "CountryISOCode": "SO",
+            "CountryShortName": "Somalia",
+            "MetaDataKey": "82686",
+            "EnglishCtyName": "Somalia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SS",
+            "CountryISOCode": "SS",
+            "CountryShortName": "South Sudan",
+            "MetaDataKey": "1172434",
+            "EnglishCtyName": "South Sudan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ST",
+            "CountryISOCode": "ST",
+            "CountryShortName": "Sao Tome and Principe",
+            "MetaDataKey": "82688",
+            "EnglishCtyName": "Sao Tome and Principe"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SZ",
+            "CountryISOCode": "SZ",
+            "CountryShortName": "Swaziland",
+            "MetaDataKey": "82692",
+            "EnglishCtyName": "Swaziland"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TD",
+            "CountryISOCode": "TD",
+            "CountryShortName": "Chad",
+            "MetaDataKey": "82693",
+            "EnglishCtyName": "Chad"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TG",
+            "CountryISOCode": "TG",
+            "CountryShortName": "Togo",
+            "MetaDataKey": "82694",
+            "EnglishCtyName": "Togo"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TZ",
+            "CountryISOCode": "TZ",
+            "CountryShortName": "Tanzania",
+            "MetaDataKey": "82581",
+            "EnglishCtyName": "Tanzania"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "UG",
+            "CountryISOCode": "UG",
+            "CountryShortName": "Uganda",
+            "MetaDataKey": "82583",
+            "EnglishCtyName": "Uganda"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ZA",
+            "CountryISOCode": "ZA",
+            "CountryShortName": "South Africa",
+            "MetaDataKey": "82700",
+            "EnglishCtyName": "South Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ZM",
+            "CountryISOCode": "ZM",
+            "CountryShortName": "Zambia",
+            "MetaDataKey": "82701",
+            "EnglishCtyName": "Zambia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ZR",
+            "CountryISOCode": "CD",
+            "CountryShortName": "Congo, Democratic Republic of",
+            "MetaDataKey": "82702",
+            "EnglishCtyName": "Congo, Democratic Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ZW",
+            "CountryISOCode": "ZW",
+            "CountryShortName": "Zimbabwe",
+            "MetaDataKey": "82703",
+            "EnglishCtyName": "Zimbabwe"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "3",
+        "-RegionName": "East Asia and Pacific",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517199",
+        "-EnglishRgnName": "East Asia and Pacific",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "4E",
+            "CountryISOCode": "4E",
+            "CountryShortName": "East Asia and Pacific",
+            "EnglishCtyName": "East Asia and Pacific"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "4M",
+            "CountryISOCode": "4M",
+            "CountryShortName": "Mekong",
+            "EnglishCtyName": "Mekong"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "4P",
+            "CountryShortName": "Pacific Islands",
+            "EnglishCtyName": "Pacific Islands"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AS",
+            "CountryISOCode": "AS",
+            "CountryShortName": "American Samoa",
+            "MetaDataKey": "82669",
+            "EnglishCtyName": "American Samoa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AU",
+            "CountryISOCode": "AU",
+            "CountryShortName": "Australia",
+            "MetaDataKey": "82671",
+            "EnglishCtyName": "Australia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CN",
+            "CountryISOCode": "CN",
+            "CountryShortName": "China",
+            "MetaDataKey": "82628",
+            "EnglishCtyName": "China"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "FJ",
+            "CountryISOCode": "FJ",
+            "CountryShortName": "Fiji",
+            "MetaDataKey": "82613",
+            "EnglishCtyName": "Fiji"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "FM",
+            "CountryISOCode": "FM",
+            "CountryShortName": "Micronesia, Federated States of",
+            "MetaDataKey": "82713",
+            "EnglishCtyName": "Micronesia, Federated States of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ID",
+            "CountryISOCode": "ID",
+            "CountryShortName": "Indonesia",
+            "MetaDataKey": "82599",
+            "EnglishCtyName": "Indonesia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "JP",
+            "CountryISOCode": "JP",
+            "CountryShortName": "Japan",
+            "MetaDataKey": "82557",
+            "EnglishCtyName": "Japan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KH",
+            "CountryISOCode": "KH",
+            "CountryShortName": "Cambodia",
+            "MetaDataKey": "82560",
+            "EnglishCtyName": "Cambodia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KI",
+            "CountryISOCode": "KI",
+            "CountryShortName": "Kiribati",
+            "MetaDataKey": "82561",
+            "EnglishCtyName": "Kiribati"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KR",
+            "CountryISOCode": "KR",
+            "CountryShortName": "Korea, Republic of",
+            "MetaDataKey": "82566",
+            "EnglishCtyName": "Korea, Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LA",
+            "CountryISOCode": "LA",
+            "CountryShortName": "Lao People's Democratic Republic",
+            "MetaDataKey": "82570",
+            "EnglishCtyName": "Lao People's Democratic Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MH",
+            "CountryISOCode": "MH",
+            "CountryShortName": "Marshall Islands",
+            "MetaDataKey": "82549",
+            "EnglishCtyName": "Marshall Islands"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MM",
+            "CountryISOCode": "MM",
+            "CountryShortName": "Myanmar",
+            "MetaDataKey": "82551",
+            "EnglishCtyName": "Myanmar"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MN",
+            "CountryISOCode": "MN",
+            "CountryShortName": "Mongolia",
+            "MetaDataKey": "82552",
+            "EnglishCtyName": "Mongolia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MY",
+            "CountryISOCode": "MY",
+            "CountryShortName": "Malaysia",
+            "MetaDataKey": "82526",
+            "EnglishCtyName": "Malaysia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NZ",
+            "CountryISOCode": "NZ",
+            "CountryShortName": "New Zealand",
+            "MetaDataKey": "82500",
+            "EnglishCtyName": "New Zealand"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PG",
+            "CountryISOCode": "PG",
+            "CountryShortName": "Papua New Guinea",
+            "MetaDataKey": "82505",
+            "EnglishCtyName": "Papua New Guinea"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PH",
+            "CountryISOCode": "PH",
+            "CountryShortName": "Philippines",
+            "MetaDataKey": "82506",
+            "EnglishCtyName": "Philippines"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PW",
+            "CountryISOCode": "PW",
+            "CountryShortName": "Palau",
+            "MetaDataKey": "82720",
+            "EnglishCtyName": "Palau"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SB",
+            "CountryISOCode": "SB",
+            "CountryShortName": "Solomon Islands",
+            "MetaDataKey": "82678",
+            "EnglishCtyName": "Solomon Islands"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SG",
+            "CountryISOCode": "SG",
+            "CountryShortName": "Singapore",
+            "MetaDataKey": "82682",
+            "EnglishCtyName": "Singapore"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TH",
+            "CountryISOCode": "TH",
+            "CountryShortName": "Thailand",
+            "MetaDataKey": "82572",
+            "EnglishCtyName": "Thailand"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TO",
+            "CountryISOCode": "TO",
+            "CountryShortName": "Tonga",
+            "MetaDataKey": "82576",
+            "EnglishCtyName": "Tonga"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TP",
+            "CountryISOCode": "TL",
+            "CountryShortName": "Timor-Leste",
+            "MetaDataKey": "82577",
+            "EnglishCtyName": "Timor-Leste"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TV",
+            "CountryISOCode": "TV",
+            "CountryShortName": "Tuvalu",
+            "MetaDataKey": "82721",
+            "EnglishCtyName": "Tuvalu"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TW",
+            "CountryISOCode": "TW",
+            "CountryShortName": "Taiwan, China",
+            "MetaDataKey": "82580",
+            "EnglishCtyName": "Taiwan, China"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "VN",
+            "CountryISOCode": "VN",
+            "CountryShortName": "Vietnam",
+            "MetaDataKey": "82695",
+            "EnglishCtyName": "Vietnam"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "VU",
+            "CountryISOCode": "VU",
+            "CountryShortName": "Vanuatu",
+            "MetaDataKey": "82696",
+            "EnglishCtyName": "Vanuatu"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "WS",
+            "CountryISOCode": "WS",
+            "CountryShortName": "Samoa",
+            "MetaDataKey": "82697",
+            "EnglishCtyName": "Samoa"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "4",
+        "-RegionName": "South Asia",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517212",
+        "-EnglishRgnName": "South Asia",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "8S",
+            "CountryShortName": "South Asia",
+            "EnglishCtyName": "South Asia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AF",
+            "CountryISOCode": "AF",
+            "CountryShortName": "Afghanistan",
+            "MetaDataKey": "82662",
+            "EnglishCtyName": "Afghanistan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BD",
+            "CountryISOCode": "BD",
+            "CountryShortName": "Bangladesh",
+            "MetaDataKey": "82675",
+            "EnglishCtyName": "Bangladesh"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BT",
+            "CountryISOCode": "BT",
+            "CountryShortName": "Bhutan",
+            "MetaDataKey": "82651",
+            "EnglishCtyName": "Bhutan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IN",
+            "CountryISOCode": "IN",
+            "CountryShortName": "India",
+            "MetaDataKey": "82602",
+            "EnglishCtyName": "India"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LK",
+            "CountryISOCode": "LK",
+            "CountryShortName": "Sri Lanka",
+            "MetaDataKey": "82538",
+            "EnglishCtyName": "Sri Lanka"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MV",
+            "CountryISOCode": "MV",
+            "CountryShortName": "Maldives",
+            "MetaDataKey": "82523",
+            "EnglishCtyName": "Maldives"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NP",
+            "CountryISOCode": "NP",
+            "CountryShortName": "Nepal",
+            "MetaDataKey": "82535",
+            "EnglishCtyName": "Nepal"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PK",
+            "CountryISOCode": "PK",
+            "CountryShortName": "Pakistan",
+            "MetaDataKey": "82507",
+            "EnglishCtyName": "Pakistan"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "5",
+        "-RegionName": "Europe and Central Asia",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517209",
+        "-EnglishRgnName": "Europe and Central Asia",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "7A",
+            "CountryShortName": "EU Accession Countries",
+            "EnglishCtyName": "EU Accession Countries"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "7B",
+            "CountryISOCode": "7B",
+            "CountryShortName": "South Eastern Europe and Balkans",
+            "EnglishCtyName": "South Eastern Europe and Balkans"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "7C",
+            "CountryISOCode": "7C",
+            "CountryShortName": "Central Asia",
+            "EnglishCtyName": "Central Asia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "7E",
+            "CountryISOCode": "7E",
+            "CountryShortName": "Europe and Central Asia",
+            "EnglishCtyName": "Europe and Central Asia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "7X",
+            "CountryISOCode": "7X",
+            "CountryShortName": "Caucasus",
+            "EnglishCtyName": "Caucasus"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AC",
+            "CountryISOCode": "AC",
+            "CountryShortName": "Aral Sea",
+            "EnglishCtyName": "Aral Sea"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AL",
+            "CountryISOCode": "AL",
+            "CountryShortName": "Albania",
+            "MetaDataKey": "82664",
+            "EnglishCtyName": "Albania"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AM",
+            "CountryISOCode": "AM",
+            "CountryShortName": "Armenia",
+            "MetaDataKey": "82665",
+            "EnglishCtyName": "Armenia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AT",
+            "CountryISOCode": "AT",
+            "CountryShortName": "Austria",
+            "MetaDataKey": "82670",
+            "EnglishCtyName": "Austria"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AZ",
+            "CountryISOCode": "AZ",
+            "CountryShortName": "Azerbaijan",
+            "MetaDataKey": "82673",
+            "EnglishCtyName": "Azerbaijan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BA",
+            "CountryISOCode": "BA",
+            "CountryShortName": "Bosnia and Herzegovina",
+            "MetaDataKey": "82710",
+            "EnglishCtyName": "Bosnia and Herzegovina"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BE",
+            "CountryISOCode": "BE",
+            "CountryShortName": "Belgium",
+            "MetaDataKey": "82676",
+            "EnglishCtyName": "Belgium"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BG",
+            "CountryISOCode": "BG",
+            "CountryShortName": "Bulgaria",
+            "MetaDataKey": "82642",
+            "EnglishCtyName": "Bulgaria"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BY",
+            "CountryISOCode": "BY",
+            "CountryShortName": "Belarus",
+            "MetaDataKey": "82654",
+            "EnglishCtyName": "Belarus"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CY",
+            "CountryISOCode": "CY",
+            "CountryShortName": "Cyprus",
+            "MetaDataKey": "82634",
+            "EnglishCtyName": "Cyprus"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CZ",
+            "CountryISOCode": "CZ",
+            "CountryShortName": "Czech Republic",
+            "MetaDataKey": "82707",
+            "EnglishCtyName": "Czech Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "DK",
+            "CountryISOCode": "DK",
+            "CountryShortName": "Denmark",
+            "MetaDataKey": "82638",
+            "EnglishCtyName": "Denmark"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "EE",
+            "CountryISOCode": "EE",
+            "CountryShortName": "Estonia",
+            "MetaDataKey": "82607",
+            "EnglishCtyName": "Estonia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ES",
+            "CountryISOCode": "ES",
+            "CountryShortName": "Spain",
+            "MetaDataKey": "82610",
+            "EnglishCtyName": "Spain"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "FI",
+            "CountryISOCode": "FI",
+            "CountryShortName": "Finland",
+            "MetaDataKey": "82612",
+            "EnglishCtyName": "Finland"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "FR",
+            "CountryISOCode": "FR",
+            "CountryShortName": "France",
+            "MetaDataKey": "82615",
+            "EnglishCtyName": "France"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GE",
+            "CountryISOCode": "GE",
+            "CountryShortName": "Georgia",
+            "MetaDataKey": "82619",
+            "EnglishCtyName": "Georgia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GR",
+            "CountryISOCode": "GR",
+            "CountryShortName": "Greece",
+            "MetaDataKey": "82591",
+            "EnglishCtyName": "Greece"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "HR",
+            "CountryISOCode": "HR",
+            "CountryShortName": "Croatia",
+            "MetaDataKey": "82704",
+            "EnglishCtyName": "Croatia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "HU",
+            "CountryISOCode": "HU",
+            "CountryShortName": "Hungary",
+            "MetaDataKey": "82598",
+            "EnglishCtyName": "Hungary"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IE",
+            "CountryISOCode": "IE",
+            "CountryShortName": "Ireland",
+            "MetaDataKey": "82600",
+            "EnglishCtyName": "Ireland"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IS",
+            "CountryISOCode": "IS",
+            "CountryShortName": "Iceland",
+            "MetaDataKey": "82605",
+            "EnglishCtyName": "Iceland"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IT",
+            "CountryISOCode": "IT",
+            "CountryShortName": "Italy",
+            "MetaDataKey": "82554",
+            "EnglishCtyName": "Italy"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KG",
+            "CountryISOCode": "KG",
+            "CountryShortName": "Kyrgyz Republic",
+            "MetaDataKey": "82559",
+            "EnglishCtyName": "Kyrgyz Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KZ",
+            "CountryISOCode": "KZ",
+            "CountryShortName": "Kazakhstan",
+            "MetaDataKey": "82569",
+            "EnglishCtyName": "Kazakhstan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LT",
+            "CountryISOCode": "LT",
+            "CountryShortName": "Lithuania",
+            "MetaDataKey": "82541",
+            "EnglishCtyName": "Lithuania"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LU",
+            "CountryISOCode": "LU",
+            "CountryShortName": "Luxembourg",
+            "MetaDataKey": "82542",
+            "EnglishCtyName": "Luxembourg"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LV",
+            "CountryISOCode": "LV",
+            "CountryShortName": "Latvia",
+            "MetaDataKey": "82543",
+            "EnglishCtyName": "Latvia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MD",
+            "CountryISOCode": "MD",
+            "CountryShortName": "Moldova",
+            "MetaDataKey": "82547",
+            "EnglishCtyName": "Moldova"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "ME",
+            "CountryISOCode": "ME",
+            "CountryShortName": "Montenegro",
+            "MetaDataKey": "917576",
+            "EnglishCtyName": "Montenegro"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MK",
+            "CountryISOCode": "MK",
+            "CountryShortName": "Macedonia, former Yugoslav Republic of",
+            "MetaDataKey": "82709",
+            "EnglishCtyName": "Macedonia, former Yugoslav Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NL",
+            "CountryISOCode": "NL",
+            "CountryShortName": "Netherlands",
+            "MetaDataKey": "82533",
+            "EnglishCtyName": "Netherlands"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NO",
+            "CountryISOCode": "NO",
+            "CountryShortName": "Norway",
+            "MetaDataKey": "82534",
+            "EnglishCtyName": "Norway"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PL",
+            "CountryISOCode": "PL",
+            "CountryShortName": "Poland",
+            "MetaDataKey": "82508",
+            "EnglishCtyName": "Poland"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PT",
+            "CountryISOCode": "PT",
+            "CountryShortName": "Portugal",
+            "MetaDataKey": "82510",
+            "EnglishCtyName": "Portugal"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "RO",
+            "CountryISOCode": "RO",
+            "CountryShortName": "Romania",
+            "MetaDataKey": "82513",
+            "EnglishCtyName": "Romania"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "RU",
+            "CountryISOCode": "RU",
+            "CountryShortName": "Russian Federation",
+            "MetaDataKey": "82514",
+            "EnglishCtyName": "Russian Federation"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SI",
+            "CountryISOCode": "SI",
+            "CountryShortName": "Slovenia",
+            "MetaDataKey": "82705",
+            "EnglishCtyName": "Slovenia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SK",
+            "CountryISOCode": "SK",
+            "CountryShortName": "Slovak Republic",
+            "MetaDataKey": "82706",
+            "EnglishCtyName": "Slovak Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TJ",
+            "CountryISOCode": "TJ",
+            "CountryShortName": "Tajikistan",
+            "MetaDataKey": "82573",
+            "EnglishCtyName": "Tajikistan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TM",
+            "CountryISOCode": "TM",
+            "CountryShortName": "Turkmenistan",
+            "MetaDataKey": "82574",
+            "EnglishCtyName": "Turkmenistan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TR",
+            "CountryISOCode": "TR",
+            "CountryShortName": "Turkey",
+            "MetaDataKey": "82578",
+            "EnglishCtyName": "Turkey"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "UA",
+            "CountryISOCode": "UA",
+            "CountryShortName": "Ukraine",
+            "MetaDataKey": "82582",
+            "EnglishCtyName": "Ukraine"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "UZ",
+            "CountryISOCode": "UZ",
+            "CountryShortName": "Uzbekistan",
+            "MetaDataKey": "82586",
+            "EnglishCtyName": "Uzbekistan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "XK",
+            "CountryISOCode": "XK",
+            "CountryShortName": "Kosovo",
+            "MetaDataKey": "474038",
+            "EnglishCtyName": "Kosovo"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "YF",
+            "CountryISOCode": "RS",
+            "CountryShortName": "Serbia",
+            "MetaDataKey": "82711",
+            "EnglishCtyName": "Serbia"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "6",
+        "-RegionName": "Middle East and North Africa",
+        "-RegionLangCode": "ENG",
+        "-MetaDataKey": "517203",
+        "-EnglishRgnName": "Middle East and North Africa",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "5M",
+            "CountryShortName": "Middle East and North Africa",
+            "EnglishCtyName": "Middle East and North Africa"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "5R",
+            "CountryISOCode": "5R",
+            "CountryShortName": "Red Sea and Gulf of Aden",
+            "EnglishCtyName": "Red Sea and Gulf of Aden"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "DJ",
+            "CountryISOCode": "DJ",
+            "CountryShortName": "Djibouti",
+            "MetaDataKey": "82637",
+            "EnglishCtyName": "Djibouti"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "DZ",
+            "CountryISOCode": "DZ",
+            "CountryShortName": "Algeria",
+            "MetaDataKey": "82641",
+            "EnglishCtyName": "Algeria"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "EG",
+            "CountryISOCode": "EG",
+            "CountryShortName": "Egypt, Arab Republic of",
+            "MetaDataKey": "82608",
+            "EnglishCtyName": "Egypt, Arab Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GZ",
+            "CountryISOCode": "PS",
+            "CountryShortName": "West Bank and Gaza",
+            "MetaDataKey": "82715",
+            "EnglishCtyName": "West Bank and Gaza"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IL",
+            "CountryISOCode": "IL",
+            "CountryShortName": "Israel",
+            "MetaDataKey": "82601",
+            "EnglishCtyName": "Israel"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IQ",
+            "CountryISOCode": "IQ",
+            "CountryShortName": "Iraq",
+            "MetaDataKey": "82603",
+            "EnglishCtyName": "Iraq"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "IR",
+            "CountryISOCode": "IR",
+            "CountryShortName": "Iran, Islamic Republic of",
+            "MetaDataKey": "82604",
+            "EnglishCtyName": "Iran, Islamic Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "JO",
+            "CountryISOCode": "JO",
+            "CountryShortName": "Jordan",
+            "MetaDataKey": "82556",
+            "EnglishCtyName": "Jordan"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LB",
+            "CountryISOCode": "LB",
+            "CountryShortName": "Lebanon",
+            "MetaDataKey": "82571",
+            "EnglishCtyName": "Lebanon"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LY",
+            "CountryISOCode": "LY",
+            "CountryShortName": "Libya",
+            "MetaDataKey": "82544",
+            "EnglishCtyName": "Libya"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MA",
+            "CountryISOCode": "MA",
+            "CountryShortName": "Morocco",
+            "MetaDataKey": "82545",
+            "EnglishCtyName": "Morocco"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MT",
+            "CountryISOCode": "MT",
+            "CountryShortName": "Malta",
+            "MetaDataKey": "82521",
+            "EnglishCtyName": "Malta"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "OM",
+            "CountryISOCode": "OM",
+            "CountryShortName": "Oman",
+            "MetaDataKey": "82501",
+            "EnglishCtyName": "Oman"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "RY",
+            "CountryISOCode": "YE",
+            "CountryShortName": "Yemen, Republic of",
+            "MetaDataKey": "82699",
+            "EnglishCtyName": "Yemen, Republic of"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SY",
+            "CountryISOCode": "SY",
+            "CountryShortName": "Syrian Arab Republic",
+            "MetaDataKey": "82691",
+            "EnglishCtyName": "Syrian Arab Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TN",
+            "CountryISOCode": "TN",
+            "CountryShortName": "Tunisia",
+            "MetaDataKey": "82575",
+            "EnglishCtyName": "Tunisia"
+          }
+        ]
+      },
+      {
+        "-RegionCode": "7",
+        "-RegionName": "Latin America and Caribbean",
+        "-RegionLangCode": "ENG",
+        "-EnglishRgnName": "Latin America and Caribbean",
+        "country": [
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6A",
+            "CountryISOCode": "6A",
+            "CountryShortName": "Andean Countries",
+            "EnglishCtyName": "Andean Countries"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6B",
+            "CountryISOCode": "6B",
+            "CountryShortName": "Mercosur",
+            "EnglishCtyName": "Mercosur"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6C",
+            "CountryISOCode": "6C",
+            "CountryShortName": "Central America",
+            "EnglishCtyName": "Central America"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6L",
+            "CountryISOCode": "6L",
+            "CountryShortName": "Latin America",
+            "EnglishCtyName": "Latin America"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6O",
+            "CountryISOCode": "6O",
+            "CountryShortName": "OECS Countries",
+            "EnglishCtyName": "OECS Countries"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "6R",
+            "CountryISOCode": "6R",
+            "CountryShortName": "Caribbean",
+            "EnglishCtyName": "Caribbean"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AG",
+            "CountryISOCode": "AG",
+            "CountryShortName": "Antigua and Barbuda",
+            "MetaDataKey": "82663",
+            "EnglishCtyName": "Antigua and Barbuda"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "AR",
+            "CountryISOCode": "AR",
+            "CountryShortName": "Argentina",
+            "MetaDataKey": "82668",
+            "EnglishCtyName": "Argentina"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BB",
+            "CountryISOCode": "BB",
+            "CountryShortName": "Barbados",
+            "MetaDataKey": "82674",
+            "EnglishCtyName": "Barbados"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BO",
+            "CountryISOCode": "BO",
+            "CountryShortName": "Bolivia",
+            "MetaDataKey": "82648",
+            "EnglishCtyName": "Bolivia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BR",
+            "CountryISOCode": "BR",
+            "CountryShortName": "Brazil",
+            "MetaDataKey": "82649",
+            "EnglishCtyName": "Brazil"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BS",
+            "CountryISOCode": "BS",
+            "CountryShortName": "Bahamas, The",
+            "MetaDataKey": "82650",
+            "EnglishCtyName": "Bahamas, The"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "BZ",
+            "CountryISOCode": "BZ",
+            "CountryShortName": "Belize",
+            "MetaDataKey": "82655",
+            "EnglishCtyName": "Belize"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CL",
+            "CountryISOCode": "CL",
+            "CountryShortName": "Chile",
+            "MetaDataKey": "82626",
+            "EnglishCtyName": "Chile"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CO",
+            "CountryISOCode": "CO",
+            "CountryShortName": "Colombia",
+            "MetaDataKey": "82629",
+            "EnglishCtyName": "Colombia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "CR",
+            "CountryISOCode": "CR",
+            "CountryShortName": "Costa Rica",
+            "MetaDataKey": "82630",
+            "EnglishCtyName": "Costa Rica"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "DM",
+            "CountryISOCode": "DM",
+            "CountryShortName": "Dominica",
+            "MetaDataKey": "82639",
+            "EnglishCtyName": "Dominica"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "DO",
+            "CountryISOCode": "DO",
+            "CountryShortName": "Dominican Republic",
+            "MetaDataKey": "82640",
+            "EnglishCtyName": "Dominican Republic"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "EC",
+            "CountryISOCode": "EC",
+            "CountryShortName": "Ecuador",
+            "MetaDataKey": "82606",
+            "EnglishCtyName": "Ecuador"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GD",
+            "CountryISOCode": "GD",
+            "CountryShortName": "Grenada",
+            "MetaDataKey": "82618",
+            "EnglishCtyName": "Grenada"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GT",
+            "CountryISOCode": "GT",
+            "CountryShortName": "Guatemala",
+            "MetaDataKey": "82592",
+            "EnglishCtyName": "Guatemala"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "GY",
+            "CountryISOCode": "GY",
+            "CountryShortName": "Guyana",
+            "MetaDataKey": "82594",
+            "EnglishCtyName": "Guyana"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "HN",
+            "CountryISOCode": "HN",
+            "CountryShortName": "Honduras",
+            "MetaDataKey": "82596",
+            "EnglishCtyName": "Honduras"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "HT",
+            "CountryISOCode": "HT",
+            "CountryShortName": "Haiti",
+            "MetaDataKey": "82597",
+            "EnglishCtyName": "Haiti"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "JM",
+            "CountryISOCode": "JM",
+            "CountryShortName": "Jamaica",
+            "MetaDataKey": "82555",
+            "EnglishCtyName": "Jamaica"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "KN",
+            "CountryISOCode": "KN",
+            "CountryShortName": "St. Kitts and Nevis",
+            "MetaDataKey": "82564",
+            "EnglishCtyName": "St. Kitts and Nevis"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "LC",
+            "CountryISOCode": "LC",
+            "CountryShortName": "St. Lucia",
+            "MetaDataKey": "82536",
+            "EnglishCtyName": "St. Lucia"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "MX",
+            "CountryISOCode": "MX",
+            "CountryShortName": "Mexico",
+            "MetaDataKey": "82525",
+            "EnglishCtyName": "Mexico"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "NI",
+            "CountryISOCode": "NI",
+            "CountryShortName": "Nicaragua",
+            "MetaDataKey": "82532",
+            "EnglishCtyName": "Nicaragua"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PA",
+            "CountryISOCode": "PA",
+            "CountryShortName": "Panama",
+            "MetaDataKey": "82502",
+            "EnglishCtyName": "Panama"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PE",
+            "CountryISOCode": "PE",
+            "CountryShortName": "Peru",
+            "MetaDataKey": "82503",
+            "EnglishCtyName": "Peru"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "PY",
+            "CountryISOCode": "PY",
+            "CountryShortName": "Paraguay",
+            "MetaDataKey": "82511",
+            "EnglishCtyName": "Paraguay"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SR",
+            "CountryISOCode": "SR",
+            "CountryShortName": "Suriname",
+            "MetaDataKey": "82687",
+            "EnglishCtyName": "Suriname"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "SV",
+            "CountryISOCode": "SV",
+            "CountryShortName": "El Salvador",
+            "MetaDataKey": "82690",
+            "EnglishCtyName": "El Salvador"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "TT",
+            "CountryISOCode": "TT",
+            "CountryShortName": "Trinidad and Tobago",
+            "MetaDataKey": "82579",
+            "EnglishCtyName": "Trinidad and Tobago"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "UY",
+            "CountryISOCode": "UY",
+            "CountryShortName": "Uruguay",
+            "MetaDataKey": "82585",
+            "EnglishCtyName": "Uruguay"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "VC",
+            "CountryISOCode": "VC",
+            "CountryShortName": "St. Vincent and the Grenadines",
+            "MetaDataKey": "82587",
+            "EnglishCtyName": "St. Vincent and the Grenadines"
+          },
+          {
+            "LangCode": "ENG",
+            "CountryCode": "VE",
+            "CountryISOCode": "VE",
+            "CountryShortName": "Venezuela, Republica Bolivariana de",
+            "MetaDataKey": "82588",
+            "EnglishCtyName": "Venezuela, Republica Bolivariana de"
+          }
+        ]
+      }
+    ]
+  }
+}

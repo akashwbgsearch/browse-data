@@ -1,0 +1,44 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 full-width">     
+        <!-- Themes List -->
+            <div *ngFor ='let themeJson of themes' class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <!-- Accordion Wrapper -->
+                <div *ngFor="let themekey of themeJson['theme'];let i = index" class="panel accordion-wrapper">
+                    <!-- Accordion Heading -->
+                    <div  class="accordion-btn proj-accordion">
+                        <a href="{{redirectPage}}themecodev2={{themekey.ThemeCode}}"><span>{{themekey.ThemeLongName}}</span></a>
+                        <span class="accor-ec" data-toggle="collapse" data-parent="#accordion" [attr.href]="'#accordion' + i" aria-expanded="false"></span>
+                    </div>
+                    <!-- Accordion Heading Ends-->
+                    
+                    <!-- Accordion Expand Content -->
+                    <div  [attr.id]="'accordion' + i" class="collapse" role="tabpanel" aria-labelledby="accordion" aria-expanded="true">
+                        <div class="accordion-content">
+                            <ng-container  *ngFor="let minor_theme_key of themeJson['minorTheme']">
+                                <ng-container *ngIf="themekey.ThemeCode == minor_theme_key.MajTheme">
+                                    <ul class="rowList rowList_theme">
+                                        <li>
+                                            <h3 class="Heading1"><a  href="{{redirectPage}}themecodev2={{minor_theme_key.ThemeCode}}">{{minor_theme_key.ThemeLongName}}</a></h3>
+                                            <ul class="subrowList">
+                                                <ng-container *ngFor="let minor_theme_key1 of themeJson['minorTheme']">
+                                                    <li class="col-sm-12 col-md-4 col-lg-4" *ngIf="minor_theme_key1.MajTheme == minor_theme_key.ThemeCode">
+                                                        <a href="{{redirectPage}}themecodev2={{minor_theme_key1.ThemeCode}}">{{minor_theme_key1.ThemeLongName}}</a>
+                                                    </li> 
+                                                </ng-container>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </ng-container>
+                            </ng-container>
+                        </div>
+                    </div>
+                    <!-- Accordion Expand Content Ends-->
+                </div>
+                <!-- Accordion Wrapper Ends-->
+            </div>
+            <!-- Themes List Ends-->
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,291 @@
+[
+    {
+        "rows": 20,
+        "os": "",
+        "page": "1",
+        "total": "22",
+        "documents": {
+            "28016864": {
+                "url": "http://documents.worldbank.org/curated/en/115231506664002832/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/115231506664002832/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "new_url": "2017/09/28016864/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "guid": "115231506664002832",
+                "docdt": "2017-09-22T00:00:00Z",
+                "display_title": "Developing socioemotional skills for\n            the Philippines\u2019 labor market",
+                "listing_relative_url": "/research/2017/09/28016864/developing-socioemotional-skills-philippines\u2019-labor-market",
+                "docty": "Publication",
+                "entityids": {
+                    "entityid": "090224b085030d4c_1_0"
+                },
+                "authr_upi": "000293950,000331088,000258970,000053852"
+            },
+            "27711516": {
+                "url": "http://documents.worldbank.org/curated/en/333521498727263689/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/333521498727263689/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "new_url": "2017/06/27711516/Developing-socioemotional-skills-for-the-Philippines-labor-market",
+                "guid": "333521498727263689",
+                "docdt": "2017-06-29T00:00:00Z",
+                "display_title": "Developing socioemotional skills for\n            the Philippines\u2019 labor market",
+                "listing_relative_url": "/research/2017/06/27711516/developing-socioemotional-skills-philippines\u2019-labor-market",
+                "docty": "Publication",
+                "entityids": {
+                    "entityid": "090224b0850a3a1b_3_0"
+                },
+                "authr_upi": "000258970,000293950,000053852,000331088"
+            },
+            "27491651": {
+                "url": "http://documents.worldbank.org/curated/en/181371495546867999/Toward-more-efficient-and-effective-public-social-spending-in-Central-America",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/181371495546867999/Toward-more-efficient-and-effective-public-social-spending-in-Central-America",
+                "new_url": "2017/05/27491651/Toward-more-efficient-and-effective-public-social-spending-in-Central-America",
+                "guid": "181371495546867999",
+                "docdt": "2017-05-18T00:00:00Z",
+                "display_title": "Toward more efficient and effective\n            public social spending in Central America",
+                "listing_relative_url": "/research/2017/05/27491651/toward-more-efficient-effective-public-social-spending-central-america",
+                "docty": "Publication",
+                "entityids": {
+                    "entityid": "090224b084bc6295_1_0"
+                },
+                "authr_upi": "000293950,000251783,000052429,000101152"
+            },
+            "27029577": {
+                "url": "http://documents.worldbank.org/curated/en/293381481887732134/Philippines-Programmatic-AAA-for-social-protection-and-labor-program-completion-summary",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/293381481887732134/Philippines-Programmatic-AAA-for-social-protection-and-labor-program-completion-summary",
+                "new_url": "2016/12/27029577/Philippines-Programmatic-AAA-for-social-protection-and-labor-program-completion-summary",
+                "guid": "293381481887732134",
+                "docdt": "2016-11-20T00:00:00Z",
+                "display_title": "Philippines - Programmatic AAA for\n            social protection and labor : program completion summary",
+                "listing_relative_url": "/research/2016/11/27029577/philippines-programmatic-aaa-social-protection-labor-program-completion-summary",
+                "docty": "Working Paper",
+                "entityids": {
+                    "entityid": "090224b0847c9c2e_1_0"
+                },
+                "authr_upi": "000293950"
+            },
+            "26919437": {
+                "url": "http://documents.worldbank.org/curated/en/688611479700502652/Philippines-Conditional-Cash-Transfer-CCT-business-processes-GrievanceRedress-System-GRS-and-Management-Information-System-MIS",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/688611479700502652/Philippines-Conditional-Cash-Transfer-CCT-business-processes-GrievanceRedress-System-GRS-and-Management-Information-System-MIS",
+                "new_url": "2016/11/26919437/Philippines-Conditional-Cash-Transfer-CCT-business-processes-GrievanceRedress-System-GRS-and-Management-Information-System-MIS",
+                "guid": "688611479700502652",
+                "docdt": "2016-11-13T00:00:00Z",
+                "display_title": "Philippines - Conditional Cash\n            Transfer (CCT) business processes, GrievanceRedress System\n            (GRS) and Management Information System (MIS)",
+                "listing_relative_url": "/research/2016/11/26919437/philippines-conditional-cash-transfer-cct-business-processes-grievanceredress-system-grs-management-information-system-mis",
+                "docty": "Working Paper",
+                "entityids": {
+                    "entityid": "090224b0846e728c_3_0"
+                },
+                "authr_upi": "000330124,000293950"
+            },
+            "26963171": {
+                "url": "http://documents.worldbank.org/curated/en/490961479823019354/Philippines-Completion-report-for-the-technical-assistance-impact-evaluation-of-the-Philippines-CCT-program",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/490961479823019354/Philippines-Completion-report-for-the-technical-assistance-impact-evaluation-of-the-Philippines-CCT-program",
+                "new_url": "2016/12/26963171/Philippines-Completion-report-for-the-technical-assistance-impact-evaluation-of-the-Philippines-CCT-program",
+                "guid": "490961479823019354",
+                "docdt": "2016-11-11T00:00:00Z",
+                "display_title": "Philippines - Completion report for\n            the technical assistance : impact evaluation of the\n            Philippines CCT program",
+                "listing_relative_url": "/research/2016/11/26963171/philippines-completion-report-technical-assistance-impact-evaluation-philippines-cct-program",
+                "docty": "Working Paper",
+                "entityids": {
+                    "entityid": "090224b08478fced_2_0"
+                },
+                "authr_upi": "000056473,000293950,000330124"
+            },
+            "27091196": {
+                "url": "http://documents.worldbank.org/curated/en/174171484213399426/Workfare-for-whom-a-critical-assessment-of-workfare-programs-in-the-Philippines",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/174171484213399426/Workfare-for-whom-a-critical-assessment-of-workfare-programs-in-the-Philippines",
+                "new_url": "2017/01/27091196/Workfare-for-whom-a-critical-assessment-of-workfare-programs-in-the-Philippines",
+                "guid": "174171484213399426",
+                "docdt": "2016-09-01T00:00:00Z",
+                "display_title": "Workfare for whom? : a critical\n            assessment of workfare programs in the Philippines",
+                "listing_relative_url": "/research/2016/09/27091196/workfare-critical-assessment-workfare-programs-philippines",
+                "docty": "Brief",
+                "entityids": {
+                    "entityid": "090224b084869cec_1_0"
+                },
+                "authr_upi": "000293950,000258970"
+            },
+            "26979876": {
+                "url": "http://documents.worldbank.org/curated/en/449921480409292571/Central-America-Social-expenditures-and-institutional-review-Nicaragua",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/449921480409292571/Central-America-Social-expenditures-and-institutional-review-Nicaragua",
+                "new_url": "2016/11/26979876/Central-America-Social-expenditures-and-institutional-review-Nicaragua",
+                "guid": "449921480409292571",
+                "docdt": "2016-08-30T00:00:00Z",
+                "display_title": "Central America - Social\n            expenditures and institutional review : Nicaragua",
+                "listing_relative_url": "/research/2016/08/26979876/central-america-social-expenditures-institutional-review-nicaragua",
+                "docty": "Working Paper",
+                "entityids": {
+                    "entityid": "090224b08474fe17_1_0"
+                },
+                "authr_upi": "000293950,000251783,000101152"
+            },
+            "27001763": {
+                "url": "http://documents.worldbank.org/curated/en/979251481092306649/Central-America-Social-expenditures-and-institutional-review-Guatemala",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/979251481092306649/Central-America-Social-expenditures-and-institutional-review-Guatemala",
+                "new_url": "2016/12/27001763/Central-America-Social-expenditures-and-institutional-review-Guatemala",
+                "guid": "979251481092306649",
+                "docdt": "2016-08-25T00:00:00Z",
+                "display_title": "Central America - Social\n            expenditures and institutional review : Guatemala",
+                "listing_relative_url": "/research/2016/08/27001763/central-america-social-expenditures-institutional-review-guatemala",
+                "docty": "Working Paper",
+                "entityids": {
+                    "entityid": "090224b084787bfa_1_0"
+                },
+                "authr_upi": "000293950,000251783,000101152"
+            },
+            "26571143": {
+                "url": "http://documents.worldbank.org/curated/en/290001468508338670/Minds-and-behaviors-at-work-boosting-socioemotional-skills-for-Latin-America-s-workforce",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/290001468508338670/Minds-and-behaviors-at-work-boosting-socioemotional-skills-for-Latin-America-s-workforce",
+                "new_url": "2016/07/26571143/Minds-and-behaviors-at-work-boosting-socioemotional-skills-for-Latin-America-s-workforce",
+                "guid": "290001468508338670",
+                "docdt": "2016-07-14T00:00:00Z",
+                "display_title": "Minds and behaviors at work :\n            boosting socioemotional skills for Latin America\u2019s workforce",
+                "listing_relative_url": "/research/2016/07/26571143/minds-behaviors-work-boosting-socioemotional-skills-latin-america\u2019s-workforce",
+                "docty": "Publication",
+                "entityids": {
+                    "entityid": "090224b084456727_1_0"
+                },
+                "authr_upi": "000176789,000293950,000441669"
+            },
+            "26121309": {
+                "url": "http://documents.worldbank.org/curated/en/322971468178773885/An-update-of-the-Philippine-conditional-cash-transfer-s-implementation-performance",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/322971468178773885/An-update-of-the-Philippine-conditional-cash-transfer-s-implementation-performance",
+                "new_url": "2016/03/26121309/An-update-of-the-Philippine-conditional-cash-transfer-s-implementation-performance",
+                "guid": "322971468178773885",
+                "docdt": "2015-10-31T00:00:00Z",
+                "display_title": "An update of the Philippine\n            conditional cash transfer\u2019s implementation performance",
+                "listing_relative_url": "/research/2015/10/26121309/update-philippine-conditional-cash-transfer\u2019s-implementation-performance",
+                "docty": "Brief",
+                "entityids": {
+                    "entityid": "090224b08422f92b_1_0"
+                },
+                "authr_upi": "000293950,000330124"
+            },
+            "25103266": {
+                "url": "http://documents.worldbank.org/curated/en/954461468189869519/Beyond-qualifications-returns-to-cognitive-and-socio-emotional-skills-in-Colombia",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/954461468189869519/Beyond-qualifications-returns-to-cognitive-and-socio-emotional-skills-in-Colombia",
+                "new_url": "2016/11/25103266/Beyond-qualifications-returns-to-cognitive-and-socio-emotional-skills-in-Colombia",
+                "guid": "954461468189869519",
+                "docdt": "2015-09-30T00:00:00Z",
+                "display_title": "Beyond qualifications : returns to\n            cognitive and socio-emotional skills in Colombia",
+                "listing_relative_url": "/research/2015/09/25103266/beyond-qualifications-returns-cognitive-socio-emotional-skills-colombia",
+                "docty": "Policy Research Working Paper",
+                "entityids": {
+                    "entityid": "090224b0831140a6_1_0"
+                },
+                "authr_upi": "000293950,000441669,000348910"
+            },
+            "25725190": {
+                "url": "http://documents.worldbank.org/curated/en/333021468185370866/Panama-Central-America-social-expenditures-and-institutional-review",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/333021468185370866/Panama-Central-America-social-expenditures-and-institutional-review",
+                "new_url": "2016/10/25725190/Panama-Central-America-social-expenditures-and-institutional-review",
+                "guid": "333021468185370866",
+                "docdt": "2015-07-06T00:00:00Z",
+                "display_title": "Panama - Central America social\n            expenditures and institutional review",
+                "listing_relative_url": "/research/2015/07/25725190/panama-central-america-social-expenditures-institutional-review",
+                "docty": "Public Expenditure Review",
+                "entityids": {
+                    "entityid": "090224b083ffb3b0_1_0"
+                },
+                "authr_upi": "000293950,000251783,NA,000225265,000452513,000463759,000453820,000074537"
+            },
+            "24893154": {
+                "url": "http://documents.worldbank.org/curated/en/274061467993187319/El-Salvador-Central-America-social-expenditures-and-institutional-review",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/274061467993187319/El-Salvador-Central-America-social-expenditures-and-institutional-review",
+                "new_url": "2015/06/24893154/El-Salvador-Central-America-social-expenditures-and-institutional-review",
+                "guid": "274061467993187319",
+                "docdt": "2015-06-29T00:00:00Z",
+                "display_title": "El Salvador - Central America social\n            expenditures and institutional review",
+                "listing_relative_url": "/research/2015/06/24893154/el-salvador-central-america-social-expenditures-institutional-review",
+                "docty": "Public Expenditure Review",
+                "entityids": {
+                    "entityid": "090224b083064522_1_0"
+                },
+                "authr_upi": "000293950,000251783,NA,000281247"
+            },
+            "24632423": {
+                "url": "http://documents.worldbank.org/curated/en/927631468011103545/Central-America-social-expenditures-and-institutional-review-Costa-Rica",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/927631468011103545/Central-America-social-expenditures-and-institutional-review-Costa-Rica",
+                "new_url": "2015/06/24632423/Central-America-social-expenditures-and-institutional-review-Costa-Rica",
+                "guid": "927631468011103545",
+                "docdt": "2015-06-14T00:00:00Z",
+                "display_title": "Central America social expenditures\n            and institutional review : Costa Rica",
+                "listing_relative_url": "/research/2015/06/24632423/central-america-social-expenditures-institutional-review-costa-rica",
+                "docty": "Public Expenditure Review",
+                "entityids": {
+                    "entityid": "090224b083ffbbd4_3_0"
+                },
+                "authr_upi": "000293950,000101152,000176795,000452513,000452466,000364852,000452443,000251783,000446513"
+            },
+            "24364876": {
+                "url": "http://documents.worldbank.org/curated/en/897971468222259665/El-Salvador-Social-expenditures-and-institutional-review",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/897971468222259665/El-Salvador-Social-expenditures-and-institutional-review",
+                "new_url": "2015/09/24364876/El-Salvador-Social-expenditures-and-institutional-review",
+                "guid": "897971468222259665",
+                "docdt": "2014-12-01T00:00:00Z",
+                "display_title": "El Salvador - Social expenditures\n            and institutional review",
+                "listing_relative_url": "/research/2014/12/24364876/el-salvador-social-expenditures-institutional-review",
+                "docty": "Public Expenditure Review",
+                "entityids": {
+                    "entityid": "000333037_20150415133613"
+                },
+                "authr_upi": "000293950,000251783,000281247,000101152"
+            },
+            "24365018": {
+                "url": "http://documents.worldbank.org/curated/en/713091468227121779/Honduras-Social-expenditures-and-institutional-review",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/713091468227121779/Honduras-Social-expenditures-and-institutional-review",
+                "new_url": "2015/09/24365018/Honduras-Social-expenditures-and-institutional-review",
+                "guid": "713091468227121779",
+                "docdt": "2014-12-01T00:00:00Z",
+                "display_title": "Honduras - Social expenditures and\n            institutional review",
+                "listing_relative_url": "/research/2014/12/24365018/honduras-social-expenditures-institutional-review",
+                "docty": "Public Expenditure Review",
+                "entityids": {
+                    "entityid": "000333037_20150415134342"
+                },
+                "authr_upi": "000293950,000251783,000281247,000420062,000452513,000432972,000101152"
+            },
+            "15592748": {
+                "url": "http://documents.worldbank.org/curated/en/713711468266160944/Educational-upgrading-and-returns-to-skills-in-Latin-America-evidence-from-a-supply-demand-framework-1990-2010",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/713711468266160944/Educational-upgrading-and-returns-to-skills-in-Latin-America-evidence-from-a-supply-demand-framework-1990-2010",
+                "new_url": "2011/12/15592748/Educational-upgrading-and-returns-to-skills-in-Latin-America-evidence-from-a-supply-demand-framework-1990-2010",
+                "guid": "713711468266160944",
+                "docdt": "2011-12-01T00:00:00Z",
+                "display_title": "Educational upgrading and returns to\n            skills in Latin America : evidence from a supply-demand\n            framework, 1990-2010",
+                "listing_relative_url": "/research/2011/12/15592748/educational-upgrading-returns-skills-latin-america-evidence-supply-demand-framework-1990-2010",
+                "docty": "Policy Research Working Paper",
+                "entityids": {
+                    "entityid": "000158349_20120103093606"
+                },
+                "authr_upi": "000210741,000191909,000238145,000293950"
+            },
+            "15456912": {
+                "url": "http://documents.worldbank.org/curated/en/901951468045578433/Should-cash-transfers-be-confined-to-the-poor-implications-for-poverty-and-inequality-in-Latin-America",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/901951468045578433/Should-cash-transfers-be-confined-to-the-poor-implications-for-poverty-and-inequality-in-Latin-America",
+                "new_url": "2011/11/15456912/Should-cash-transfers-be-confined-to-the-poor-implications-for-poverty-and-inequality-in-Latin-America",
+                "guid": "901951468045578433",
+                "docdt": "2011-11-01T00:00:00Z",
+                "display_title": "Should cash transfers be confined to\n            the poor ? implications for poverty and inequality in Latin America",
+                "listing_relative_url": "/research/2011/11/15456912/cash-transfers-confined-poor-implications-poverty-inequality-latin-america",
+                "docty": "Policy Research Working Paper",
+                "entityids": {
+                    "entityid": "000158349_20111108083448"
+                },
+                "authr_upi": "000293950,NA,NA"
+            },
+            "7698933": {
+                "url": "http://documents.worldbank.org/curated/en/469351468046776545/What-is-the-impact-of-international-remittances-on-poverty-and-inequality-in-Latin-America",
+                "url_friendly_title": "http://documents.worldbank.org/curated/en/469351468046776545/What-is-the-impact-of-international-remittances-on-poverty-and-inequality-in-Latin-America",
+                "new_url": "2007/06/7698933/What-is-the-impact-of-international-remittances-on-poverty-and-inequality-in-Latin-America",
+                "guid": "469351468046776545",
+                "docdt": "2007-06-01T00:00:00Z",
+                "display_title": "What is the impact of international\n            remittances on poverty and inequality in Latin America ?",
+                "listing_relative_url": "/research/2007/06/7698933/impact-international-remittances-poverty-inequality-latin-america",
+                "docty": "Policy Research Working Paper",
+                "entityids": {
+                    "entityid": "000016406_20070608122322"
+                },
+                "authr_upi": "000293950,000165528,000164661,000157446"
+            },
+            "facets": {}
+        }
+    }
+]
